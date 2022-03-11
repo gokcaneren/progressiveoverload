@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253555666080",
+    "project_id": "fir-ornek-c0837",
+    "storage_bucket": "fir-ornek-c0837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253555666080:android:7cafaa55b7e116cb932dc5",
+        "android_client_info": {
+          "package_name": "com.gokcan.progressive_overload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253555666080-t1509k177i8qo41de8og2c10tu8sp8vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACk6aIJs58_wtNHxAU-9kM6yjS0EgPCTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253555666080-t1509k177i8qo41de8og2c10tu8sp8vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
